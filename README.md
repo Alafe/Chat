@@ -1,0 +1,1 @@
+Projeto de chat em real-time feito nodeJS e socket.io do canal do youtube Rocketseat
